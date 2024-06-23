@@ -2,12 +2,15 @@
 ![image](https://github.com/ptt2510/A-Novel-Methodology-for-Optimizing-Direct-Response-Display-Advertising-Campaigns/assets/130917808/4585d9bf-2b5d-4bd0-b81f-d45033511492)
 ![image](https://github.com/ptt2510/A-Novel-Methodology-for-Optimizing-Direct-Response-Display-Advertising-Campaigns/assets/130917808/45cba509-4f9f-479b-8977-6eb028895a7a)
 ![image](https://github.com/ptt2510/A-Novel-Methodology-for-Optimizing-Direct-Response-Display-Advertising-Campaigns/assets/130917808/52535772-29e2-4ac0-84ee-4d162998184d)
-Link dataset: https://drive.google.com/file/d/1gvxLsiVZC07Prk0CXVBmOHJwh5UIlCX-/view?usp=drive_link
+-
+Link dataset: https://drive.google.com/file/d/1gvxLsiVZC07Prk0CXVBmOHJwh5UIlCX-/view?usp=drive_link  
 Link dataset HASING TRICK: https://drive.google.com/file/d/1mbuIYvS-9JvlDZH1-X8IdVWIsL908VEr/view?usp=drive_link
+-
 ![image](https://github.com/ptt2510/A-Novel-Methodology-for-Optimizing-Direct-Response-Display-Advertising-Campaigns/assets/130917808/2265c725-dd06-4853-8853-c3c2b24c677d)
 ![image](https://github.com/ptt2510/A-Novel-Methodology-for-Optimizing-Direct-Response-Display-Advertising-Campaigns/assets/130917808/aa449dbd-6566-4727-b057-5519e97a8fbe)
 ![image](https://github.com/ptt2510/A-Novel-Methodology-for-Optimizing-Direct-Response-Display-Advertising-Campaigns/assets/130917808/20cf3305-cf17-427d-bb3d-23acdc7397ab)
 ![image](https://github.com/ptt2510/A-Novel-Methodology-for-Optimizing-Direct-Response-Display-Advertising-Campaigns/assets/130917808/3bb222e5-0e73-4c96-8bd4-b4910cd7106e)
+-
 #GENETIC ALGORITHM
 ![image](https://github.com/ptt2510/A-Novel-Methodology-for-Optimizing-Direct-Response-Display-Advertising-Campaigns/assets/130917808/419e1456-6950-47b8-9261-b6d2cfcb5917)
 ![image](https://github.com/ptt2510/A-Novel-Methodology-for-Optimizing-Direct-Response-Display-Advertising-Campaigns/assets/130917808/ab58bf8a-0af4-429f-a1a8-bcb583550f75)
