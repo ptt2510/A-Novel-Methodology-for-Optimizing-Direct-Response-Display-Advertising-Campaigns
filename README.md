@@ -11,7 +11,7 @@ Link dataset HASING TRICK: https://drive.google.com/file/d/1mbuIYvS-9JvlDZH1-X8I
 ![image](https://github.com/ptt2510/A-Novel-Methodology-for-Optimizing-Direct-Response-Display-Advertising-Campaigns/assets/130917808/20cf3305-cf17-427d-bb3d-23acdc7397ab)
 ![image](https://github.com/ptt2510/A-Novel-Methodology-for-Optimizing-Direct-Response-Display-Advertising-Campaigns/assets/130917808/3bb222e5-0e73-4c96-8bd4-b4910cd7106e)
 -
-#GENETIC ALGORITHM
+# GENETIC ALGORITHM
 ![image](https://github.com/ptt2510/A-Novel-Methodology-for-Optimizing-Direct-Response-Display-Advertising-Campaigns/assets/130917808/419e1456-6950-47b8-9261-b6d2cfcb5917)
 ![image](https://github.com/ptt2510/A-Novel-Methodology-for-Optimizing-Direct-Response-Display-Advertising-Campaigns/assets/130917808/ab58bf8a-0af4-429f-a1a8-bcb583550f75)
 ![image](https://github.com/ptt2510/A-Novel-Methodology-for-Optimizing-Direct-Response-Display-Advertising-Campaigns/assets/130917808/cfc6b2b1-7ce6-48de-87c8-b569e3d56fce)
